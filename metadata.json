@@ -1,0 +1,9 @@
+{
+  "name": "PremisePulse | Paid Surveys & Market Research Intelligence",
+  "description": "Earn real cash and gift cards by completing high-paying surveys, testing new products, and local city intelligence micro-tasks with photo verification.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
